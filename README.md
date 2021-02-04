@@ -1,4 +1,3 @@
-# spring-cloud-mysql 
+# Spring Cloud MySQL 
 
-Exemplo adaptado do projeto disponível no site:
-https://www.oracle.com/technetwork/pt/articles/dsl/crud-rest-sb2-hibernate-5302424-ptb.html
+Exemplo adaptado do projeto disponível neste **[link](https://www.oracle.com/technetwork/pt/articles/dsl/crud-rest-sb2-hibernate-5302424-ptb.html)**
